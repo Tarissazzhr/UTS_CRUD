@@ -28,7 +28,7 @@
                                     class="btn btn-success">
                                     Edit</a>
                                     <a href="<?= base_url('mahasiswa/hapus/'.$isi['nim']);?>" 
-                                    onclick="javascript:return confirm('Apakah ingin menghapus data mahasiswa ?')"
+                                    onclick="javascript:return confirm('Apakah anda ingin menghapus data mahasiswa ?')"
                                     class="btn btn-danger">
                                     Hapus</a>
 
